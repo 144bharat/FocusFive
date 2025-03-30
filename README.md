@@ -1,7 +1,3 @@
-Here's a professional and attractive GitHub README for your **Focus Five** project:
-
----
-
 # **Focus Five**
 
 A local desktop application built to streamline and structure your **daily interview preparation**. Focus Five helps you stay on track by presenting **five sequential questions every day** to encourage focused learning. Designed with privacy and efficiency in mind, it operates entirely on your local system, ensuring a distraction-free and secure experience.
@@ -102,11 +98,3 @@ focus-five/
 Contributions are welcome! If you have ideas for new features or enhancements, feel free to open an issue or submit a pull request.
 
 ---
-
-## **License**
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to tailor the text and structure further to suit your preferences or add your repository-specific links (e.g., your username or project URL). Let me know if you'd like adjustments or help with anything else!
