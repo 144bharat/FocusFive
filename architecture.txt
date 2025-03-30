@@ -1,0 +1,13 @@
+focus-five/
+├── main.js               # Controls app lifecycle and window management
+├── preload.js            # Secure backend-frontend communication
+├── renderer/
+│   ├── index.html        # Main UI for displaying daily questions
+│   ├── styles.css        # Styling for the app
+│   └── script.js         # Frontend logic for handling questions
+├── database.sqlite       # SQLite database file (optional)
+├── history/              # Folder to store daily logs
+│   └── example-log.json  # Example log file
+├── index.js              # Core backend logic (for Node.js operations)
+├── package.json          # Metadata and dependencies
+└── .gitignore            # File for excluding unnecessary files from Git

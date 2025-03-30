@@ -1,0 +1,26 @@
+{
+  "name": "focusfive",
+  "version": "1.0.0",
+  "description": "Focus Five is a local desktop application designed to simplify and structure your daily interview preparation. It sequentially presents five questions each day, unlocking answers and subsequent questions upon engagement. Features include question management, progress tracking, notification reminders, and automatic startup options. Built with Electron.js and Node.js, this tool operates securely on your system, ensuring privacy while keeping you focused and organized. Perfect for anyone striving to ace their interviews!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "startProdApp": "electron .",
+    "dev": "nodemon --exec electron ."
+  },
+  "keywords": [
+    "electronJs",
+    "nodeJs",
+    "focusFive",
+    "interviewPreparation"
+  ],
+  "author": "144bharat",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^35.1.2",
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  }
+}
